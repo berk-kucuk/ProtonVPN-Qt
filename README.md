@@ -10,9 +10,8 @@ This project provides a sleek, blurred UI with an animated background, designed 
 
 | Status: Connected | Status: Disconnected |
 | :---: | :---: |
-| \<img src="path/to/connected.png" alt="Connected" width="400"\> | \<img src="path/to/disconnected.png" alt="Disconnected" width="400"\> |
+| ![Connected](https://raw.githubusercontent.com/berk-kucuk/ProtonVPN-Qt/refs/heads/main/connected.png) | ![Disconnected](https://raw.githubusercontent.com/berk-kucuk/ProtonVPN-Qt/refs/heads/main/disconnected.png) |
 | *Modern blur effects on server list and side panels.* | *Real-time status updates and clean UI.* |
-
 -----
 
 ## Features
